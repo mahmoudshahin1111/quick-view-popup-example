@@ -1,3 +1,3 @@
 # quick-view-popup-example
 quick view popup example.
-the challenge i learned how i get a product images from HTML response 😉.
+the challenge is how i get a product images from HTML response 😉.
